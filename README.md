@@ -20,4 +20,4 @@ This explains about basics principles of akka-streams, materializing values, ope
 of most important concept backpressure
 
 ## References
-1. Reactive Streams [link](https://www.reactive-streams.org/)
+1. Reactive Streams [Reactive Streams](https://www.reactive-streams.org/)
